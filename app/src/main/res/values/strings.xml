@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Byte0</string>
+    <string name="app_subtitle">SECURE DISK WIPER</string>
+
+    <string name="usb_device_icon">USB Drive Icon</string>
+    <string name="warning_icon">Warning Icon</string>
+    <string name="device_label">Device: Scanning...</string>
+    <string name="warning_message">This action cannot be undone. All data on the connected USB device will be permanently destroyed.</string>
+    <string name="format_button">Format Drive</string>
+
+    <string name="device_name_format">Device: %1$s</string>
+    <string name="format_button_default">Format Drive</string>
+    <string name="format_button_formatting">Formatting...</string>
+    <string name="status_wiping">Securely wiping data...</string>
+
+    <string name="confirm_title">Confirm Format</string>
+    <string name="confirm_message">Are you sure you want to format this device? All data will be permanently erased.</string>
+    <string name="btn_yes_format">Yes, Format</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="success_title">Operation Completed</string>
+    <string name="success_message">The device has been successfully formatted and all data has been securely wiped.</string>
+    <string name="error_title">Operation Failed</string>
+    <string name="error_message">Failed to format the device. Please ensure your device is rooted and root access is granted.</string>
+    <string name="btn_ok">OK</string>
+</resources>
